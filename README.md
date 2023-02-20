@@ -5,14 +5,12 @@
 <p>Most of the content you may find here is © <a href="https://www.square-enix.com">SQUARE ENIX CO., LTD.</a></p>
 
 <h2>Summary</h2>
-<code>
-  <ul>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#installing">Installing</a></li>
-    <li><a href="#content">Content</a></li>
-    <li><a href="#credits">Credits & Thanks</a></li>
-  </ul>
-</code>
+<ul>
+  <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#installing">Installing</a></li>
+  <li><a href="#content">Content</a></li>
+  <li><a href="#credits">Credits & Thanks</a></li>
+</ul>
 
 <h2 id="contributing">Contributing</h2>
 <p>As the Dragon Quest API project is still in development and some medias are missing, you are more than welcome to send us any missing sprite and/or artwork.</p>
@@ -29,21 +27,19 @@
 <code>git clone https://github.com/DragonQuestAPI/medias.git</code>
 
 <h2 id="content">Content</h2>
-<code>
-  <ul>medias
-    <li>\- DQ1</li>
-    <li>\- DQ2</li>
-    <li>\- DQ3</li>
-    <li>\- DQ4</li>
-    <li>\- DQ5</li>
-    <li>\- DQ6</li>
-    <li>\- DQ7</li>
-    <li>\- DQ8</li>
-    <li>\- DQ9</li>
-    <li>\- DQ10</li>
-    <li>\- DQ11</li>
-  </ul>
-</code>
+<ul>medias
+  <li>\- DQ1</li>
+  <li>\- DQ2</li>
+  <li>\- DQ3</li>
+  <li>\- DQ4</li>
+  <li>\- DQ5</li>
+  <li>\- DQ6</li>
+  <li>\- DQ7</li>
+  <li>\- DQ8</li>
+  <li>\- DQ9</li>
+  <li>\- DQ10</li>
+  <li>\- DQ11</li>
+</ul>
 
 <h2 id="credits">Credits & Thanks</h2>
 
