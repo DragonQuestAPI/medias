@@ -1,4 +1,4 @@
-<h1>Dragon Quest API Medias <img src='https://thumbs.gfycat.com/EarnestFreeAustraliansilkyterrier-size_restricted.gif' height=48px/></h1>
+<h1><img src='https://thumbs.gfycat.com/EarnestFreeAustraliansilkyterrier-size_restricted.gif' height=48px/>Dragon Quest API Medias</h1>
 
 <p>All the medias for the Dragon Quest API will be hosted on this repository.</p>
 <p>This includes sprites and artworks.</p>
