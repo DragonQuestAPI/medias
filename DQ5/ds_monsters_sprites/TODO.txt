@@ -1,0 +1,3 @@
+Name monsters sprites properly
+
+Add Merry Man from the DS version
